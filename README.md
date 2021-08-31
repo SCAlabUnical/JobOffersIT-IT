@@ -1,2 +1,2 @@
 # JobOffersIT-IT
-Job offers in the Italian IT sector
+Job offers in the IT sector for the Italian market
