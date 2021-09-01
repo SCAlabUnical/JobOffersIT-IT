@@ -16,3 +16,12 @@ It's present too, the entire description, of analized job offer, in HMTL formats
 
 The rest of files, stored into *dataset* folder in **SQL** format, rapresente dataset; there are several tables that contains different data. The names of these tables
 identify the information they contain.
+
+
+
+
+Repo also contains software, represented by *software.zip* file developed in Java, that automated the process of download and analysis of job offers in the IT sector for Italian market. The use of this software, in particular classes and methods of *searchAndDownload* package, allow the download from the job offers sites: **Adecco, Randstad and Manpower**.
+To start download phase, is necessary specify job category to be researched, software will research all offers with the same category.
+**It's necessary to start 3 different classes, because of the different structure of sites consulted**.
+
+Once row data are stored, thanks to method and classes of *searchAndDownload* package, it's possible to start the analysis and classification phase. In this case it is sufficient to start *DataExtractionStarter* class
