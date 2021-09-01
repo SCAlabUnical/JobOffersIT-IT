@@ -26,3 +26,5 @@ To start download phase, is necessary specify job category to be researched, sof
 
 Once raw data are stored, thanks to method and classes of *searchAndDownload* package, it's possible to start the analysis and classification phase. In this case it is sufficient to start *DataExtractionStarter* class of the package *dataExtraction* contained in *dataManagement*
 
+
+In *analysis and results* are stored PNG files that illustrates result generated from job offers analisys.
