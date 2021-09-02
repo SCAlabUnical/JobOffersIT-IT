@@ -5,7 +5,7 @@ Repo contains the entire dataset used for job analysis and classification.
 
 The most important file is *job_offer JOIN job_data*, stored in different formats like: **CSV, JSON, SQL and XML**. 
 
-This table contains more than **2000** job offers in the IT sector for Italian market, analyzed during the period from March to May in 2021, classified by:
+This table contains more than **2000** job offers in the IT sector for Italian market, analyzed during the period from March to May, classified by:
 * Job category;
 * Job subcategory (if available);
 * Type of submitted contract;
